@@ -24,7 +24,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![Screenshot_20230104_083112.png)
 
 
 ## Result:
